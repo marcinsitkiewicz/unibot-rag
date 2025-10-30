@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE / Editors
+.vscode/
+.idea/
+*.code-workspace
+
+# System
+.DS_Store
+Thumbs.db
+
+# Gradio cache
+gradio_cached_examples/
+gradio_cache/
+
+# Chroma local database
+chroma_db*/
