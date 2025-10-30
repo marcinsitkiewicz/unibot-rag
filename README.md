@@ -25,7 +25,7 @@ Dzięki RAG system może:
 
 ---
 
-## 🧠 Modele LLM i embeddings
+## 🧠 Modele embeddingowe i LLM
 
 W projekcie UniBot wykorzystywane są następujące modele:
 
