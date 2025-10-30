@@ -133,7 +133,7 @@ UniBot/
 
 ## 📖 Bibliografia
 
-- [LangChain Documentation](https://python.langchain.com/)
-- [Chroma DB](https://docs.trychroma.com/)
-- [Ollama](https://ollama.com/)
-- [Gradio](https://gradio.app/)
+- [LangChain Documentation](https://docs.langchain.com/oss/python/langchain/overview)
+- [Chroma DB](https://docs.trychroma.com/docs/overview/introduction)
+- [Ollama](https://docs.ollama.com/)
+- [Gradio](https://www.gradio.app/docs/python-client/introduction)
