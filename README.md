@@ -1,6 +1,6 @@
 # UniBot – Asystent Studenta SAN
 
-UniBot to lokalny chatbot z wykorzystaniem **RAG (Retrieval-Augmented Generation)** i modeli LLM działających przez **Ollama**, zaprojektowany do wspomagania studentów w przeglądaniu sylabusów i programów studiów na kierunku Informatyka II stopnia.
+UniBot to lokalny chatbot z wykorzystaniem **RAG (Retrieval-Augmented Generation)** i modeli LLM działających przez **Ollama**, zaprojektowany do wspomagania studentów w przeglądaniu sylabusów i programów studiów.
 
 ---
 
